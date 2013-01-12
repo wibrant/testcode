@@ -1,5 +1,4 @@
 void main()
 {
-	printf("abc");
-    printfÂÂ£®Â£©£?
+	printf("abc");//Œ“ «∞°bg£¨sb∞°
 }
